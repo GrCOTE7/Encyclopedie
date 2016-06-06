@@ -1,5 +1,6 @@
 # Encyclopedie
-Téléharger le site internet ENCYCLOPEDIE
+
+Télécharger le site internet ENCYCLOPEDIE
 
 Créé dans PHPMYADMIN La table << encyclopedie >>
 
