@@ -4,7 +4,7 @@ Télécharger le site internet ENCYCLOPEDIE
 
 Créé dans PHPMYADMIN La table << encyclopedie >>
 
-Allez dans Bases_de_données pour récupérer La Bases de données nomées << encyclopedie >> ou << encyclopedie + date >>
+Allez dans Bases_de_données pour récupérer la bases de données nommées << encyclopedie >> ou << encyclopedie + date >>
 
 Et faire l'IMPORTATION dans PHPMYADMIN 
 
